@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>news-svgrepo-com.svg</file>
+    <file>exchange-svgrepo-com.svg</file>
+  </qresource>
+</RCC>

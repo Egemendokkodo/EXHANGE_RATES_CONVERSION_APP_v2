@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>article-ny-times-bold-svgrepo-com.svg</file>
+    <file>bbc-svgrepo-com.svg</file>
+    <file>cnbc-logo-black-transparent.png</file>
+    <file>news-svgrepo-com.svg</file>
+    <file>exchange-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
